@@ -1,6 +1,8 @@
 # Fanatic
 Support your coin with Fanatic.
 
+![백서 이미지 (1)](https://user-images.githubusercontent.com/98400439/152129611-40600c27-a294-4f1b-9980-7de9170d22dc.png)
+
 ## PFP
 
 We make 10000 PFPs with different combinations of faces and emoticons.
