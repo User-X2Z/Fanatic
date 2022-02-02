@@ -60,4 +60,4 @@ Total 10000 supplies are listed as following:
 
 On every minting rounds, the additional listings according to our holders' vote result will be announced and added later.
 
-For detailed information about Fanatic, please read our whitepaper .
+For detailed information about Fanatic, please read our whitepaper https://medium.com/@pj_fanatic?p=b0e6d5513fb.
