@@ -56,5 +56,8 @@ Total 10000 supplies are listed as following:
 
 * Airdrop_list.csv (100)
 
-
 * Round(1-10)_list.csv (1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 900)
+
+On every minting rounds, the additional listings according to our holders' vote result will be announced and added later.
+
+For detailed information about Fanatic, please read our whitepaper .
